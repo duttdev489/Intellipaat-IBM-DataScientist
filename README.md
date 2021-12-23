@@ -1,1 +1,1 @@
-# Intellipat-IBM-DataScientist
+# Intellipaat-IBM-DataScientist
